@@ -8,6 +8,7 @@ devoir inf231!!!!!!!!!!
  	-KWEFI BERTIMOND MUBU 23U2808
  	-TCHOUPA NGEUMO CABREL 24G2677
  	-KESSECK NANCIE PATRICIA 24H2376
+ 	-NBIAH NJOMI ALAN KHALED 24H2037
  
  il contient plusieurs codes qui sont :
    -checkStored-array.c qui verifie si un tableau est trier
